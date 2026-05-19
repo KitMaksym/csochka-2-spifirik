@@ -1,6 +1,6 @@
 вот тутор
 1. Установи tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-2. Зайди в разширение --> Режим разработчика --> включи
+2. Зайди в разширение в браузере типо параметры разширений chrome://extensions/ --> Режим разработчика --> включи
 3. https://www.tampermonkey.net/script_installation.php#url=https://github.com/KitMaksym/csochka-2-spifirik/raw/refs/heads/main/67.user.js
 зайди на эту ссылку с скачаным тамперманки
 4. попробуй на своем отчете https://fungun.net/ecd/report/250694/
